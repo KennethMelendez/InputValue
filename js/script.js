@@ -1,7 +1,7 @@
 //Variables for all of the INPUT BOXES
 var nounInput = document.querySelector('#nounInput');
 var adjectiveInput = document.querySelector('#adjectiveInput');
-var verbInput = document.querySelector('#adjectiveInput');
+var verbInput = document.querySelector('#verbInput');
 var submit = document.querySelector('#submit');
 
 //Variables for all of RESPONSE TAGS
