@@ -1,0 +1,13 @@
+/*Organizes the page*/
+
+.form{
+  border:3px solid black;
+  text-align: center;
+  padding:3rem;
+}
+
+.border{
+  border:3px solid black;
+  text-align: center;
+  padding:1rem;
+}
